@@ -3,9 +3,9 @@
 
 
 
-Required for:
+Required:
 
-openai-gym-example.py
+python3 openai-gym-example.py
 
 ```pip3 install gym==0.23.0
 pip3 install PyOpenGL
