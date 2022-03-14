@@ -5,7 +5,7 @@
 
 Required:
 
-python3 openai-gym-example.py
+python3 openai\_gym\_example.py
 
 ```pip3 install gym==0.23.0
 pip3 install PyOpenGL
